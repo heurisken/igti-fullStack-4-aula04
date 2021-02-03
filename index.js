@@ -3,3 +3,5 @@ dotenv.config();
 
 console.log(process.env.USERNAME);
 console.log(process.env.USERDB);
+
+//Adicionei essa linha aqui.!
